@@ -1,4 +1,6 @@
 #Supplementary Data 3: count_spacers.py
+# Scripts from the Joung et al Nature Protocols 2016 manuscript on knockout and transcriptional activation screening
+# with modifications on parameters
 
 from Bio import SeqIO
 import csv
